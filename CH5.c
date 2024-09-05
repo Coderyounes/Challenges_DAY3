@@ -8,11 +8,10 @@ int main() {
     printf("Enter the String: ");
     scanf("%[^\n]", phrase);
 
-    for (i = 0; phrase[i] != '\0'; i++) {
-        count++;
-    }
+    for (i = 0; phrase[i] != '\0'; i++)
+        ;
 
-    for (j = count; j >= 0; j--) {
+    for (j = i; j >= 0; j--) {
         printf("%c", phrase[j]);
     }
     printf("\n");
