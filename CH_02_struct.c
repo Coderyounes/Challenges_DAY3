@@ -23,7 +23,7 @@ int main() {
     printf("%s %s ", newPerson.nom, newPerson.prenom);
 
     for (j = 0; j < 5; j++) {
-        printf("%d, ", newPerson.notes[j]);
+        printf("%d ", newPerson.notes[j]);
     }
     printf("\n");
     return (0);
