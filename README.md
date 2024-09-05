@@ -1,6 +1,3 @@
-### Challenge 6 : Compte des Occurrences d'un Caractère
-Écrivez un programme C qui lit une chaîne de caractères et un caractère, puis compte et affiche combien de fois le caractère apparaît dans la chaîne.
-
 ### Challenge 7 : Conversion en Majuscules
 Écrivez un programme C qui lit une chaîne de caractères et convertit tous les caractères en majuscules. Affichez la chaîne modifiée.
 
