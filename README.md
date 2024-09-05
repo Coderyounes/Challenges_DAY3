@@ -1,8 +1,3 @@
-### Challenge 7 : Conversion en Majuscules
-Écrivez un programme C qui lit une chaîne de caractères et convertit tous les caractères en majuscules. Affichez la chaîne modifiée.
-
-### Challenge 8 : Conversion en Minuscules
-Écrivez un programme C qui lit une chaîne de caractères et convertit tous les caractères en minuscules. Affichez la chaîne modifiée.
 
 ### Challenge 9 : Suppression des Espaces
 Écrivez un programme C qui lit une chaîne de caractères et supprime tous les espaces. Affichez la chaîne résultante.
