@@ -26,7 +26,7 @@ Livre *ajout() {
 int main() {
     Livre *newLivre;
     
-    newLivre = ajout(newLivre);
+    newLivre = ajout();
 
     printf("%s, %s, %d\n", newLivre->titre, newLivre->auteur, newLivre->année);
     return (0);
