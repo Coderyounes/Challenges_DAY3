@@ -16,10 +16,6 @@
 
 Écrivez un programme C qui lit un entier `n` et affiche tous les nombres premiers de 1 à `n`. Un nombre est considéré premier s'il est divisible uniquement par 1 et lui-même.
 
-### Challenge 4 : Inversion d'un Entier
-
-Écrivez un programme C qui lit un entier à plusieurs chiffres et l'affiche en ordre inverse sans utiliser de tableaux. Par exemple, si l'entrée est 12345, affichez 54321.
-
 ### Challenge 5 : Somme des N Nombres
 
 Écrivez un programme C qui demande à l’utilisateur un nombre entier `n` et calcule la somme des `n` premiers nombres naturels. Par exemple, si `n` est 5, la somme est 1 + 2 + 3 + 4 + 5 = 15.
